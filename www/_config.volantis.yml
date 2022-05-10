@@ -3,10 +3,10 @@ use_cdn: false
 # 注意事项：建议规范全站路径 URL 最后带一个 "/" 例如 "about/"
 navbar:
   visiable: auto # always, auto
-  logo: # choose [img] or [icon + title]
+  logo:  # choose [img] or [icon + title]
     img: #volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
     icon:
-    title: 'Tele-CN <sup style="color:#ff9800">CN</sup>'
+    title: '<i class="fa-brands fa-telegram fa-fw" aria-hidden="true"></i> Telegram <sup style="color:#ff9800">CN</sup>'
   menu:
     - name: 教程
       icon: fa-duotone fa-book faa-tada
