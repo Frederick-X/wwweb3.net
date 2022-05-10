@@ -14,7 +14,7 @@ navbar:
       target: _self
 
     - name: 下载
-      icon: fa-duotone fa-play-circle faa-tada
+      icon: fas fa-cloud-download-alt
       url: /examples/
 
     - name: 帮助
