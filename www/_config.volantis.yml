@@ -323,3 +323,8 @@ custom_css:
   #     url: volantis-static/media/fonts/Dosis/Dosis-Medium.ttf
   #     weight: normal
   #     style: normal
+
+# search:
+#   enable: true
+#   service: hexo  # hexo
+#   js: https://cdn.jsdelivr.net/xxxxxxxx/js/search/hexo.js
