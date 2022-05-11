@@ -102,6 +102,22 @@ article:
       updated:
         title: '本页文档最后更新于：'
 
+comments:
+  service: giscus
+  giscus:
+    theme:
+      light: "light"
+      dark: "dark"
+    repo: Frederick-X/tele-cn
+    repo-id: R_kgDOHSa4qw
+    mapping: "pathname"
+    category: "Q&A"
+    category-id: "DIC_kwDOHSa4q84CPDQv"
+    reactions-enabled: "1"
+    emit-metadata: "0"
+    lang: "zh-CN"
+    input-position: "top"
+
 sidebar:
   for_page: [qgroup, post, category, guide]
   for_post: [toc]
