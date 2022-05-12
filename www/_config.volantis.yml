@@ -117,6 +117,21 @@ comments:
     emit-metadata: "0"
     lang: "zh-CN"
     input-position: "top"
+  waline:
+    js: https://unpkg.com/@waline/client@v2/dist/waline.js
+    css: https://unpkg.com/@waline/client@v2/dist/waline.css
+    comment: true  # 评论数统计
+    #js: https://npm.elemecdn.com/@waline/client/dist/Waline.min.js
+    path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
+    placeholder: " 快来评论吧~"  # 评论占位提示
+    imageHosting: https://7bu.top/api/upload # 图床api（默认使用去不图床）
+    # 其他配置项按照yml格式继续填写即可 除了 [el path placeholder uploadImage] 选项
+    serverURL: https://waline.tele-cn.net # Waline 的服务端地址（必填） 测试用地址: https://waline-ruddy.vercel.app
+    #avatar: Gavatar
+    #... 可选配置项详见源码
+    meta: [nick,mail] # waline comment header info
+    # requiredFields: [nick,mail]
+    pageSize: 15 # 评论每页显示数量
 
 sidebar:
   for_page: [qgroup, post, category, guide]
