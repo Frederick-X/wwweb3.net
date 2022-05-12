@@ -96,9 +96,9 @@ article:
   body:
     meta_library:
       author:
-        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png
-        name: Volantis Team
-        url: https://github.com/volantis-x/
+        avatar: /images/telegram-brands.svg
+        name: Tele-CN 团队
+        url: https://github.com/Frederick-X/
       updated:
         title: '本页文档最后更新于：'
 
