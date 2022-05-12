@@ -123,7 +123,7 @@ comments:
     comment: true  # 评论数统计
     #js: https://npm.elemecdn.com/@waline/client/dist/Waline.min.js
     path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
-    placeholder: " 快来评论吧~"  # 评论占位提示
+    placeholder: " 快来评论吧~ （在上方‘邮箱’处输入您的邮箱，系统将以邮件的形式把回复推送给您）"  # 评论占位提示
     imageHosting: https://7bu.top/api/upload # 图床api（默认使用去不图床）
     # 其他配置项按照yml格式继续填写即可 除了 [el path placeholder uploadImage] 选项
     serverURL: https://waline.tele-cn.net # Waline 的服务端地址（必填） 测试用地址: https://waline-ruddy.vercel.app
