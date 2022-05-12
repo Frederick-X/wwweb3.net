@@ -206,7 +206,7 @@ sidebar:
         icon: fa-brands fa-telegram
         title: '加入 Telegram 群'
       content:
-        - '如果你在使用中遇到问题，请到 [**TeleCN 官方交流群**](https://t.me/tele_cn_group)  或者 [留言板](/faqs/#comments) 进行反馈. <br>[![](/images/group_qr.png)](https://qm.qq.com/cgi-bin/qm/qr?k=FpexWW5GCLWOM3jF3LG-YWfllXuv7cMs&jump_from=webapi)'
+        - '如果你在使用中遇到问题，请到 [**TeleCN 官方交流群**](https://t.me/tele_cn_group)  或者 [留言板](/faqs/#comments) 进行反馈. <br>[![](/images/group_qr.png)](https://t.me/tele_cn_group)'
 
     help:
       class: page
