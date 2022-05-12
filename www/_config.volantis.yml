@@ -103,7 +103,7 @@ article:
         title: '本页文档最后更新于：'
 
 comments:
-  service: giscus
+  service: waline
   giscus:
     theme:
       light: "light"
