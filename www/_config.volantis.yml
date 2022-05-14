@@ -58,17 +58,20 @@ cover:
   background: /images/cover.webp #https://npm.elemecdn.com/volantis-static@0.0.1649552113628/media/wallpaper/minimalist/2020/006.webp
   features:
     - name: 首页
-      img: volantis-static/media/twemoji/assets/svg/1f3e6.svg
+      img: volantis-static/media/twemoji/assets/svg/1f3db.svg
       url: /
     - name: 教程
       img: volantis-static/media/twemoji/assets/svg/1f393.svg
       url: /v5/getting-started/
       target: _self
     - name: 群组
+      img: volantis-static/media/twemoji/assets/svg/1f399.svg
+      url: /faqs/
+    - name: 频道
       img: volantis-static/media/twemoji/assets/svg/1f4e1.svg
       url: /faqs/
-    - name: 翻墙
-      img: volantis-static/media/twemoji/assets/svg/1f5fd.svg
+    - name: 机器人
+      img: volantis-static/media/twemoji/assets/svg/1f916.svg
       url: /examples/
     # - name: 帮助
     #   img: volantis-static/media/twemoji/assets/svg/1f4ac.svg
