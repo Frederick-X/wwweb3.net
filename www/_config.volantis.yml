@@ -57,29 +57,35 @@ cover:
   subtitle: 'Telegram APP 中文讯息站.'
   background: /images/cover.webp #https://npm.elemecdn.com/volantis-static@0.0.1649552113628/media/wallpaper/minimalist/2020/006.webp
   features:
-    - name: 博客
-      img: volantis-static/media/twemoji/assets/svg/1f4f0.svg
+    - name: 首页
+      img: volantis-static/media/twemoji/assets/svg/1f3e6.svg
       url: /
-    - name: 文档
-      img: volantis-static/media/twemoji/assets/svg/1f516.svg
+    - name: 教程
+      img: volantis-static/media/twemoji/assets/svg/1f393.svg
       url: /v5/getting-started/
       target: _self
-    - name: 下载
-      img: volantis-static/media/twemoji/assets/svg/1f4af.svg
-      url: /examples/
-    - name: 帮助
-      img: volantis-static/media/twemoji/assets/svg/1f4ac.svg
+    - name: 群组
+      img: volantis-static/media/twemoji/assets/svg/1f4e1.svg
       url: /faqs/
+    - name: 翻墙
+      img: volantis-static/media/twemoji/assets/svg/1f5fd.svg
+      url: /examples/
+    # - name: 帮助
+    #   img: volantis-static/media/twemoji/assets/svg/1f4ac.svg
+    #   url: /faqs/
     - name: 鸣谢
       img: volantis-static/media/twemoji/assets/svg/1f497.svg
       url: /contributors/
-    - name: 归档
+    - name: 资源
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg
-      url: /archives/
-    - name: 源码
-      img: volantis-static/media/twemoji/assets/svg/1f9ec.svg
-      url: https://github.com/volantis-x/hexo-theme-volantis/
-      target: _self
+      url: /downloads/
+    # - name: 下载
+    #   img: volantis-static/media/twemoji/assets/svg/1f4e5.svg
+    #   url: /examples/
+    # - name: 源码
+    #   img: volantis-static/media/twemoji/assets/svg/1f9ec.svg
+    #   url: https://github.com/volantis-x/hexo-theme-volantis/
+    #   target: _self
 
 article:
   preview:
