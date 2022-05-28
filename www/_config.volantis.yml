@@ -70,7 +70,7 @@ cover:
     - name: 频道
       img: volantis-static/media/twemoji/assets/svg/1f4e1.svg
       url: /faqs/
-    - name: 机器人
+    - name: Bot
       img: volantis-static/media/twemoji/assets/svg/1f916.svg
       url: /examples/
     # - name: 帮助
@@ -135,7 +135,7 @@ comments:
     placeholder: " 快来评论吧~ （在上方‘邮箱’处输入您的邮箱，系统将以邮件的形式把回复推送给您）"  # 评论占位提示
     imageHosting: https://7bu.top/api/upload # 图床api（默认使用去不图床）
     # 其他配置项按照yml格式继续填写即可 除了 [el path placeholder uploadImage] 选项
-    serverURL: https://waline.tele-cn.net # Waline 的服务端地址（必填） 测试用地址: https://waline-ruddy.vercel.app
+    serverURL: https://waline.wwweb3.net # Waline 的服务端地址（必填） 测试用地址: https://waline-ruddy.vercel.app
     #avatar: Gavatar
     #... 可选配置项详见源码
     meta: [nick,mail] # waline comment header info
