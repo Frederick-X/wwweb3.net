@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Telegram中文站
+title: Lets Web3.0
 favicon: https://wwweb3.net/images/telegram-brands.svg
-subtitle: ''
+subtitle: '第三代互联网技术交流站'
 description: '电报'
 keywords:
-author: John Doe
-language: en
+author: Frtderick-X
+language:
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://wwweb3.net
-permalink: :hash/ #:year/:month/:day/:title/
+permalink: :lang/:hash/ #:year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
