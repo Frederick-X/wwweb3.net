@@ -53,8 +53,9 @@ navbar:
 
 cover:
   # height_scheme: full # full, half
-  title: 'Telegram<sup style="color:#ff9800">CN</sup> <i class="fa-brands fa-telegram fa-fw" aria-hidden="true"></i>'
-  subtitle: 'Telegram APP 中文讯息站.'
+  
+  title: '<i class="fa-brands fa-battle-net fa-fw" aria-hidden="true"></i>Let&apos;s Web<sup style="color:#ff9800">3.0</sup>'
+  subtitle: '第三代互联网技术交流站.'
   background: /images/cover.webp #https://npm.elemecdn.com/volantis-static@0.0.1649552113628/media/wallpaper/minimalist/2020/006.webp
   features:
     - name: 首页
