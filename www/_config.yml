@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Lets Web3.0
-favicon: https://wwweb3.net/images/telegram-brands.svg
+title: Lets Web3
+favicon: /images/favicon.svg
 subtitle: 'A Web3.0 Technology Conmunity.'
 description: 'Lets Web3.0 - A Web3.0 Technology Conmunity.'
 keywords:
