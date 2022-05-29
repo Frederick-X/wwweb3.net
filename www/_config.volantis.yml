@@ -113,12 +113,12 @@ article:
         title: '本页文档最后更新于：'
 
 comments:
-  service: waline
+  service: giscus
   giscus:
     theme:
       light: "light"
       dark: "dark"
-    repo: Frederick-X/tele-cn
+    repo: Frederick-X/wwweb3.net
     repo-id: R_kgDOHSa4qw
     mapping: "pathname"
     category: "Q&A"
